@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>信号与系统电子书</title>
+    <link rel="stylesheet" href="./style.css?v=20260805-signals-systems-v2" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="library-panel" aria-label="电子书目录">
+        <header class="brand">
+          <div class="brand-mark" aria-hidden="true">ℱ</div>
+          <div>
+            <h1>信号与系统电子书</h1>
+            <p id="bookSubtitle">时域分析 · 频域分析 · 复频域方法</p>
+          </div>
+        </header>
+        <div class="library-meta" id="libraryMeta"></div>
+        <nav class="toc" id="toc" aria-label="章节目录"></nav>
+      </aside>
+
+      <main class="reader-panel">
+        <header class="reader-toolbar">
+          <div class="reader-title">
+            <p class="eyebrow" id="currentCategory">目录</p>
+            <h2 id="currentTitle">正在加载</h2>
+          </div>
+          <div class="toolbar-search" id="searchBox">
+            <label class="search-field" for="searchInput">
+              <span aria-hidden="true">⌕</span>
+              <input id="searchInput" type="search" autocomplete="off" placeholder="搜索信号、系统、变换、例题" />
+            </label>
+            <div class="search-popover" id="searchPopover">
+              <div class="subject-tabs" id="subjectTabs" role="list"></div>
+              <div class="search-summary" id="searchSummary"></div>
+              <div class="search-results" id="searchResults"></div>
+            </div>
+          </div>
+          <div class="reader-actions">
+            <label class="page-jump">
+              <span>页码</span>
+              <input id="pageInput" type="number" min="1" value="1" />
+            </label>
+          </div>
+        </header>
+        <section class="viewer-wrap" id="viewerWrap" aria-label="电子书阅读区">
+          <div class="paper-stage" id="paperStage">
+            <button class="page-nav-button page-nav-button--prev" id="prevPageButton" type="button" title="上一页">‹</button>
+            <div class="page-stack" id="pageStack" aria-label="连续页面"></div>
+            <button class="page-nav-button page-nav-button--next" id="nextPageButton" type="button" title="下一页">›</button>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./data.js?v=20260805-signals-systems-v2"></script>
+    <script src="./app.js?v=20260805-signals-systems-v2" defer></script>
+  </body>
+</html>
