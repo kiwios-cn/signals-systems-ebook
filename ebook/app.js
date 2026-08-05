@@ -10,7 +10,7 @@ const PAGE_OBSERVER_MARGIN = "900px 0px";
 const BACKGROUND_PRELOAD_START_DELAY_MS = 1800;
 const BACKGROUND_PRELOAD_BATCH_DELAY_MS = 320;
 const BACKGROUND_PRELOAD_BATCH_SIZE = 2;
-const APP_VERSION = "20260805-signals-systems-v2";
+const APP_VERSION = "20260805-signals-systems-v3";
 const SERVICE_WORKER_FILE = "./sw.js";
 const BOOK_RENDER_ID = "__full_book__";
 
