@@ -1,4 +1,4 @@
-const CACHE_VERSION = "20260805-signals-systems-v3";
+const CACHE_VERSION = "20260805-signals-systems-v5";
 const SHELL_CACHE = `signals-systems-ebook-shell-${CACHE_VERSION}`;
 const PAGE_CACHE = `signals-systems-ebook-pages-${CACHE_VERSION}`;
 const ACTIVE_CACHES = new Set([SHELL_CACHE, PAGE_CACHE]);
@@ -6,9 +6,9 @@ const ACTIVE_CACHES = new Set([SHELL_CACHE, PAGE_CACHE]);
 const SHELL_ASSETS = [
   "./",
   "./index.html",
-  "./style.css?v=20260805-signals-systems-v3",
-  "./data.js?v=20260805-signals-systems-v3",
-  "./app.js?v=20260805-signals-systems-v3",
+  "./style.css?v=20260805-signals-systems-v5",
+  "./data.js?v=20260805-signals-systems-v5",
+  "./app.js?v=20260805-signals-systems-v5",
 ];
 
 self.addEventListener("install", (event) => {

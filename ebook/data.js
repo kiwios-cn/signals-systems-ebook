@@ -2,10 +2,10 @@
 window.BOOK_MANIFEST = {
   "title": "信号与系统电子书",
   "subtitle": "时域分析 · 频域分析 · 复频域方法 · 典型题型",
-  "generatedAt": "2026-08-05T10:03:00+08:00",
+  "generatedAt": "2026-08-05T10:25:40+08:00",
   "stats": {
     "documents": 12,
-    "pages": 72,
+    "pages": 83,
     "renderDpi": 260,
     "pageRenderer": "typst-direct-webp",
     "pageImageExtension": "webp",
@@ -27,7 +27,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Signals and Systems Basics (信号与系统基础).typ",
           "pageImageBase": "./rendered-pages/doc-0541d6dc078b/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-0541d6dc078b-s1",
@@ -55,7 +55,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-0541d6dc078b-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -70,7 +70,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Continuous-Time Signals (连续时间信号).typ",
           "pageImageBase": "./rendered-pages/doc-57607142881c/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-57607142881c-s1",
@@ -98,7 +98,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-57607142881c-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -113,7 +113,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Discrete-Time Signals (离散时间信号).typ",
           "pageImageBase": "./rendered-pages/doc-0a0d9f8b877a/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-0a0d9f8b877a-s1",
@@ -141,7 +141,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-0a0d9f8b877a-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -156,7 +156,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Linear Time-Invariant Systems (线性时不变系统).typ",
           "pageImageBase": "./rendered-pages/doc-d7cf87baddf4/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-d7cf87baddf4-s1",
@@ -184,7 +184,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-d7cf87baddf4-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -199,7 +199,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Convolution (卷积).typ",
           "pageImageBase": "./rendered-pages/doc-ab2654a9740d/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-ab2654a9740d-s1",
@@ -227,7 +227,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-ab2654a9740d-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -249,7 +249,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Fourier Series (傅里叶级数).typ",
           "pageImageBase": "./rendered-pages/doc-ab6087b1a1bb/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-ab6087b1a1bb-s1",
@@ -277,7 +277,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-ab6087b1a1bb-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -292,7 +292,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Fourier Transform (傅里叶变换).typ",
           "pageImageBase": "./rendered-pages/doc-3d5ffce05f90/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-3d5ffce05f90-s1",
@@ -320,7 +320,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-3d5ffce05f90-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -335,7 +335,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Sampling and Modulation (采样与调制).typ",
           "pageImageBase": "./rendered-pages/doc-b051dc23fde2/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-b051dc23fde2-s1",
@@ -363,7 +363,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-b051dc23fde2-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -385,7 +385,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Laplace Transform (拉普拉斯变换).typ",
           "pageImageBase": "./rendered-pages/doc-e9e1d7bfa278/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-e9e1d7bfa278-s1",
@@ -413,7 +413,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-e9e1d7bfa278-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -428,7 +428,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/Z Transform (Z 变换).typ",
           "pageImageBase": "./rendered-pages/doc-8446bd7ccccf/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-8446bd7ccccf-s1",
@@ -456,7 +456,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-8446bd7ccccf-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -471,7 +471,7 @@ window.BOOK_MANIFEST = {
           "sourcePath": "typst/System Function and Stability (系统函数与稳定性).typ",
           "pageImageBase": "./rendered-pages/doc-b996b750df86/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 7,
           "sections": [
             {
               "id": "doc-b996b750df86-s1",
@@ -499,7 +499,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-b996b750df86-s5",
-              "title": "五、视频目录知识点补充",
+              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -549,7 +549,7 @@ window.BOOK_MANIFEST = {
             },
             {
               "id": "doc-8de53d6b2a1b-s5",
-              "title": "五、视频目录到电子书章节映射",
+              "title": "五、课程目录驱动的后续归档规则",
               "page": 6,
               "level": 1
             }
@@ -568,7 +568,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Signals and Systems Basics (信号与系统基础).typ",
       "pageImageBase": "./rendered-pages/doc-0541d6dc078b/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-0541d6dc078b-s1",
@@ -596,7 +596,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-0541d6dc078b-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -611,7 +611,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Continuous-Time Signals (连续时间信号).typ",
       "pageImageBase": "./rendered-pages/doc-57607142881c/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-57607142881c-s1",
@@ -639,7 +639,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-57607142881c-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -654,7 +654,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Discrete-Time Signals (离散时间信号).typ",
       "pageImageBase": "./rendered-pages/doc-0a0d9f8b877a/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-0a0d9f8b877a-s1",
@@ -682,7 +682,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-0a0d9f8b877a-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -697,7 +697,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Linear Time-Invariant Systems (线性时不变系统).typ",
       "pageImageBase": "./rendered-pages/doc-d7cf87baddf4/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-d7cf87baddf4-s1",
@@ -725,7 +725,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-d7cf87baddf4-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -740,7 +740,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Convolution (卷积).typ",
       "pageImageBase": "./rendered-pages/doc-ab2654a9740d/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-ab2654a9740d-s1",
@@ -768,7 +768,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-ab2654a9740d-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -783,7 +783,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Fourier Series (傅里叶级数).typ",
       "pageImageBase": "./rendered-pages/doc-ab6087b1a1bb/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-ab6087b1a1bb-s1",
@@ -811,7 +811,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-ab6087b1a1bb-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -826,7 +826,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Fourier Transform (傅里叶变换).typ",
       "pageImageBase": "./rendered-pages/doc-3d5ffce05f90/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-3d5ffce05f90-s1",
@@ -854,7 +854,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-3d5ffce05f90-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -869,7 +869,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Sampling and Modulation (采样与调制).typ",
       "pageImageBase": "./rendered-pages/doc-b051dc23fde2/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-b051dc23fde2-s1",
@@ -897,7 +897,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-b051dc23fde2-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -912,7 +912,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Laplace Transform (拉普拉斯变换).typ",
       "pageImageBase": "./rendered-pages/doc-e9e1d7bfa278/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-e9e1d7bfa278-s1",
@@ -940,7 +940,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-e9e1d7bfa278-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -955,7 +955,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/Z Transform (Z 变换).typ",
       "pageImageBase": "./rendered-pages/doc-8446bd7ccccf/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-8446bd7ccccf-s1",
@@ -983,7 +983,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-8446bd7ccccf-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -998,7 +998,7 @@ window.BOOK_MANIFEST = {
       "sourcePath": "typst/System Function and Stability (系统函数与稳定性).typ",
       "pageImageBase": "./rendered-pages/doc-b996b750df86/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 7,
       "sections": [
         {
           "id": "doc-b996b750df86-s1",
@@ -1026,7 +1026,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-b996b750df86-s5",
-          "title": "五、视频目录知识点补充",
+          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -1069,7 +1069,7 @@ window.BOOK_MANIFEST = {
         },
         {
           "id": "doc-8de53d6b2a1b-s5",
-          "title": "五、视频目录到电子书章节映射",
+          "title": "五、课程目录驱动的后续归档规则",
           "page": 6,
           "level": 1
         }
@@ -1125,8 +1125,8 @@ window.SEARCH_INDEX = [
     "category": "基础与时域",
     "page": 6,
     "heading": "信号与系统基础",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据 B 站《信号与系统考研课程》公开分 P 目录归纳覆盖点，只补充知识点结构，不替代逐字听课笔记。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 r...",
-    "text": "Signals and Systems Basics (信号与系统基础) Signals and Systems Basics 信号与系统基础 基础与时域 信号与系统基础 五、视频目录知识点补充 来源说明 本节依据 B 站《信号与系统考研课程》公开分 P 目录归纳覆盖点，只补充知识点结构，不替代逐字听课笔记。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P001-P006 , 绪论、信号表示、确定/随机、连续/离散、模拟/数字、周期/非周期 , 先建立信号分类表；判断题要先明确自变量、幅值、周期和确定性。 , P008-P010 , 实信号/复信号、奇信号/偶信号、能量信号/功率信号 , 把“奇偶性”和“能量功率”作为后续傅里叶和系统性质题的前置筛查。 , P028-P035 , 系统特性、线性、时不变、因果、记忆性、稳定、可逆、离散系统特性 , 系统性质题按五连问逐项判断；可逆性也应纳入基础性质清单。 , P036 , 第一章总结 , 阶段复盘应覆盖“信号分类 + 系统性质 + 能量功率”三张表。 , 目录中“可逆系统”是当前章节需要额外留意的点：系统可逆要求不同输入不能产生同一输出；若映射丢失符号、绝对值化、平方化或积分丢常数，通常不可逆。"
+    "snippet": "五、课程目录补充讲解 1. 可逆系统：为什么要单独判断 课程目录把“可逆系统”单独列为一个知识点，说明它不是线性、时不变、因果、稳定的附属结论。系统可逆的核心是：不同输入不能被系统压成同一个输出。若存在反系统 T^ -1 ，使得 T^ -1 T x x 则原系统可逆。判断时最稳的做法是寻找“信息是否丢失”。例如 y t x t-t 0 只...",
+    "text": "Signals and Systems Basics (信号与系统基础) Signals and Systems Basics 信号与系统基础 基础与时域 信号与系统基础 五、课程目录补充讲解 1. 可逆系统：为什么要单独判断 课程目录把“可逆系统”单独列为一个知识点，说明它不是线性、时不变、因果、稳定的附属结论。系统可逆的核心是：不同输入不能被系统压成同一个输出。若存在反系统 T^ -1 ，使得 T^ -1 T x x 则原系统可逆。判断时最稳的做法是寻找“信息是否丢失”。例如 y t x t-t 0 只是延时，理论上可通过提前 t 0 还原，所以可逆； y t x^2 t 会丢失符号， x t 与 -x t 得到同一输出，通常不可逆； y t abs x t 也会丢失符号；积分器若没有初始条件，会丢失常数项信息，也要警惕不可逆。 判断抓手 可逆性题先问一句：能不能从 y 唯一恢复 x ？如果输出表达式中出现平方、绝对值、取样丢点、积分丢常数、限幅饱和，优先怀疑不可逆。 2. 实信号、复信号、奇偶性与后续频域的关系 目录中连续安排了实信号/复信号、奇信号/偶信号，这些不是孤立定义，而是傅里叶分析的前置工具。实信号的频谱通常具有共轭对称性；偶信号更偏向余弦项，奇信号更偏向正弦项。若 x t 为实偶信号，则傅里叶变换通常也是实偶函数；若 x t 为实奇信号，则傅里叶变换通常是纯虚奇函数。 这类性质的价值在于少算积分。遇到傅里叶级数或傅里叶变换题，先判断信号是否实、偶、奇、半波对称，再决定哪些系数或频谱部分可以直接为零。 3. 模拟信号、数字信号与连续/离散的区别 连续/离散描述的是自变量，模拟/数字描述的是幅值。连续时间信号可以是模拟信号，也可以经量化后成为数字幅值的连续时间信号；离散时间信号也不必然是数字信号，它可能只有采样而没有量化。考研题通常不会深挖编码细节，但会用这些概念检查你是否混淆“时间离散”和“幅值离散”。 不要把“离散时间”直接等同于“数字”。采样解决时间离散化，量化解决幅值离散化，两者是不同步骤。 4. 常见三角公式为什么放在第一章 课程目录在基本信号之后单独安排三角公式，是因为后面的傅里叶级数、调制解调和正弦稳态响应都要频繁使用“和差化积、积化和差”。例如调制中最常用的是 cos alpha cos beta 1/2 cos alpha+beta +cos alpha-beta 它说明两个余弦相乘会产生和频与差频，这正是频谱搬移的时域来源。正弦稳态响应中也常把输入写成复指数形式： cos omega t + phi 1/2 e^ j omega t+phi + 1/2 e^ -j omega t+phi 这样通过 LTI 系统时，每个复指数分量只需乘以对应频率响应。复习时不必把所有三角公式孤立背诵，而要知道它们出现在哪里：乘法对应调制，和差角对应相位合成，欧拉公式对应频域分析入口。 三角公式使用场景 看到“两个正弦/余弦相乘”，优先想到积化和差；看到“同频正弦叠加”，优先合成为一个同频正弦；看到“系统对正弦输入的响应”，优先改写成复指数。 5. 能量信号和功率信号的细分判断 课程目录中能量信号和功率信号课时较长，原因是题目经常通过边界情况设坑。有限时宽且幅度有限的非零信号通常是能量信号；非零周期信号通常是功率信号；指数衰减信号可能是能量信号；指数增长信号往往既不是能量信号也不是功率信号。 对复信号必须用模平方： abs x t ^2 x t x^ t 不能只平方实部。对离散信号，判断周期时还要确认周期是正整数；例如 cos Omega n 周期存在的条件是 Omega/ 2 pi 为有理数。若周期不存在，就不能直接套“周期信号求一个周期平均功率”的公式。 能量/功率题最常见的错法是先入为主：看到“周期”忘记检查是否非零有界，看到“离散正弦”忘记检查整数周期，看到复指数忘记取模平方。"
   },
   {
     "id": "doc-57607142881c-p2",
@@ -1175,8 +1175,8 @@ window.SEARCH_INDEX = [
     "category": "基础与时域",
     "page": 6,
     "heading": "连续时间信号",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据 B 站课程分 P 目录补充连续时间信号覆盖面。目录只提供主题粒度，因此本节用于扩充复习清单。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rg...",
-    "text": "Continuous-Time Signals (连续时间信号) Continuous-Time Signals 连续时间信号 基础与时域 连续时间信号 五、视频目录知识点补充 来源说明 本节依据 B 站课程分 P 目录补充连续时间信号覆盖面。目录只提供主题粒度，因此本节用于扩充复习清单。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P011-P012 , 信号相加相乘、信号微积分 , 相乘会改变支撑和频谱；微分积分会引入冲激、阶跃和初始突变。 , P014-P015 , 反褶、移位、尺度变换、信号运算综合题 , 波形题先做时间轴，再做幅度；综合题必须标出关键断点。 , P016-P023 , 指数、正弦、数字角频率与模拟角频率、欧拉公式、复指数、Sa 信号、直流分量、斜变信号 , 把常见基本信号视作变换表入口，尤其是复指数、Sa、直流和斜变。 , P024-P027 , 阶跃、符号函数、冲激信号、冲激偶信号 , 奇异信号题要同时检查抽样性质、尺度因子和导数关系。 , 冲激偶信号是目录中的高阶奇异信号点。处理 delta' t 时要记住它对应抽样函数的导数信息，不能按普通函数相乘积分理解。"
+    "snippet": "五、课程目录补充讲解 1. 信号相加、相乘与支撑区间 课程目录把信号相加、相乘放在基本运算部分。相加主要看同一时刻幅值叠加，相乘则会同时改变幅度和有效支撑区间。若 x 1 t 在区间 A 上非零， x 2 t 在区间 B 上非零，则乘积 x 1 t x 2 t 只可能在二者交集上非零。 这个结论在门函数、矩形窗、调制和抽样中都会反复出现。...",
+    "text": "Continuous-Time Signals (连续时间信号) Continuous-Time Signals 连续时间信号 基础与时域 连续时间信号 五、课程目录补充讲解 1. 信号相加、相乘与支撑区间 课程目录把信号相加、相乘放在基本运算部分。相加主要看同一时刻幅值叠加，相乘则会同时改变幅度和有效支撑区间。若 x 1 t 在区间 A 上非零， x 2 t 在区间 B 上非零，则乘积 x 1 t x 2 t 只可能在二者交集上非零。 这个结论在门函数、矩形窗、调制和抽样中都会反复出现。尤其当一个信号乘以 u t-a -u t-b 时，本质是在截取 a,b 区间内的波形。 2. 信号微积分与奇异信号 连续时间信号的微分和积分会把普通波形与奇异信号联系起来。单位阶跃的导数是单位冲激： d u t / d t delta t 斜变信号 r t t u t 的导数为阶跃信号，阶跃信号的导数又是冲激。若一个分段信号在某点发生跳变，求导时除了各段普通导数，还会在跳变点产生冲激项，冲激强度等于跳变量。 跳变产生冲激 若 x t 在 t t 0 处从 x t 0^- 跳到 x t 0^+ ，则 d x t /d t 中含有强度为 x t 0^+ -x t 0^- 的 delta t-t 0 。 3. 指数、正弦、复指数与欧拉公式 指数信号、正弦信号、复指数信号是整门课的三类基础砖块。欧拉公式 e^ j omega t cos omega t +j sin omega t 说明正弦和余弦可以看成复指数的组合。LTI 系统中特别重视复指数，因为复指数通过 LTI 系统后只改变倍数，不改变形式。这个性质是频率响应、拉普拉斯系统函数、Z 变换系统函数的共同根源。 4. Sa 信号、直流、斜变、符号函数与冲激偶 课程目录中特别列出 Sa 信号、常数信号、斜变信号、符号函数和冲激偶。Sa 信号常与矩形频谱互为傅里叶变换，是抽样和理想低通滤波的核心波形。直流分量对应频域零频冲激；斜变信号常用于系统对多项式输入的响应；符号函数可写为 sgn t 2u t -1 冲激偶 delta' t 是冲激的导数，常用抽样导数性质处理： integral -infinity ^infinity x t delta' t-t 0 d t - x' t 0 冲激偶不能当作“更尖的普通函数”。它的作用对象是被抽样函数的导数，并且有负号。 5. 反褶、移位、尺度变换的统一做法 课程目录把反褶、移位、尺度变换和综合题连续安排，说明波形变换不是靠直觉画图，而是要有固定步骤。遇到 y t x a t-b 先把括号整理为 a t-b/a 再按“先看尺度和反褶，再看位移”的方式理解。若 a 0 ，时间轴被压缩为原来的 1/a ；若 a 0 ，还会发生反褶。最稳的方法是选原信号的关键点 t 0 ，令 a t-b t 0 得到新位置 t t 0+b /a 这样断点、峰值点、零点都会自动落到正确位置。 波形变换顺序 综合题先列原信号关键点，再用 a t-b t 0 逐点映射。不要只凭“左移右移”的口令判断，因为遇到负尺度时口令很容易反。 6. 阶跃函数表示分段波形 阶跃函数不只是一个基本信号，也是一种写分段波形的语言。区间门函数可写为 u t-a -u t-b 它在 a t b 内为 1 ，区间外为 0 。若某段波形为 f t ，就可以写作 f t u t-a -u t-b 这种写法的价值在于后续可以直接做傅里叶变换、拉普拉斯变换或卷积。若分段波形有多个区间，应先用阶跃函数把每段“打开”和“关闭”，再整理公共项。 用阶跃函数写分段波形时，区间端点处的函数值通常不影响积分和变换结果，但会影响某些点值判断。考试中若题目强调端点取值，需要单独说明。"
   },
   {
     "id": "doc-0a0d9f8b877a-p2",
@@ -1225,8 +1225,8 @@ window.SEARCH_INDEX = [
     "category": "基础与时域",
     "page": 6,
     "heading": "离散时间信号",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据课程分 P 目录补充离散时间信号和离散系统前置知识，重点是把“整数索引”与后续差分方程、Z 变换连接起来。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if ...",
-    "text": "Discrete-Time Signals (离散时间信号) Discrete-Time Signals 离散时间信号 基础与时域 离散时间信号 五、视频目录知识点补充 来源说明 本节依据课程分 P 目录补充离散时间信号和离散系统前置知识，重点是把“整数索引”与后续差分方程、Z 变换连接起来。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P013 , 离散信号的差分和累加运算 , 差分对应离散微分，累加对应离散积分，是差分方程和 Z 变换性质的前置。 , P018 , 数字角频率与模拟角频率 , 区分 Omega 与 omega ；离散角频率以 2 pi 为周期。 , P035 , 离散系统的特性 , 离散系统也要判线性、时不变、因果、稳定、记忆性和可逆性。 , P066-P067 , 差分方程求解、单位样值响应和单位阶跃响应求解 , 单位样值响应 h n 是离散 LTI 系统的核心；阶跃响应可由样值响应累加得到。 , 做题经验补充 离散题先写出 n 的取值范围，再判断是否存在整数周期、整数移位和有效求和上下限。"
+    "snippet": "五、课程目录补充讲解 1. 差分与累加：离散版微积分 课程目录把离散信号的差分和累加单独列出。它们分别对应连续时间中的微分和积分。常用一阶差分为 nabla x n x n - x n-1 累加则可写为 y n sum k -infinity ^n x k 若 x n delta n ，则累加结果是 u n ；若 x n u n ，差分结...",
+    "text": "Discrete-Time Signals (离散时间信号) Discrete-Time Signals 离散时间信号 基础与时域 离散时间信号 五、课程目录补充讲解 1. 差分与累加：离散版微积分 课程目录把离散信号的差分和累加单独列出。它们分别对应连续时间中的微分和积分。常用一阶差分为 nabla x n x n - x n-1 累加则可写为 y n sum k -infinity ^n x k 若 x n delta n ，则累加结果是 u n ；若 x n u n ，差分结果是 delta n 。所以离散系统里，单位样值和单位阶跃的关系与连续时间中冲激和阶跃的关系平行。 2. 数字角频率与模拟角频率 离散时间复指数写作 e^ j Omega n 。这里 Omega 是数字角频率，单位通常是 rad/sample，而连续时间角频率 omega 的单位是 rad/s。若由采样得到离散信号，两者满足 Omega omega T s 离散频率具有 2pi 周期性： e^ j Omega+2pi m n e^ j Omega n ，其中 m 为整数。因此判断离散正弦频率时，必须把频率折回长度为 2pi 的主值区间。 连续时间中不同的角频率通常代表不同频率；离散时间中相差 2pi 整数倍的数字角频率代表同一个序列。 3. 单位样值响应与单位阶跃响应 离散 LTI 系统的单位样值响应 h n 是系统核心。单位阶跃响应可由单位样值响应累加得到： s n sum k -infinity ^n h k 反过来，若已知阶跃响应 s n ，则单位样值响应为 h n s n -s n-1 这也是差分与累加在系统分析中的直接应用。遇到题目给阶跃响应而要求系统性质或输出时，先差分得到 h n ，再使用卷积或 Z 变换。 4. 离散周期必须满足整数条件 连续正弦只要频率非零就有周期，但离散正弦还要检查整数周期。对 x n cos Omega n + phi 若存在正整数 N 使得 Omega N 2 pi m 其中 m 为整数，则序列周期存在；最小正整数 N 是基波周期。等价地， Omega/ 2 pi 必须是有理数。若 Omega 0.3 pi ，则 Omega/ 2 pi 3/20 ，周期为 20 ；若 Omega pi sqrt 2 ，则没有整数周期。 离散周期题不能直接写 T 2 pi/Omega ，因为 n 只能取整数。必须找到正整数周期 N 。 5. 离散系统性质的再判断 课程目录把离散系统特性也放在第一章末尾，是因为离散系统虽然形式像连续系统，但判断细节更依赖索引。系统 y n x n-1 有记忆、因果、时不变；系统 y n x -n 有记忆、非因果、时不变；系统 y n n x n 无记忆、因果、线性，但时变。 稳定性判断同样回到有界输入有界输出。累加器 y n sum k -infinity ^n x k 对有界输入 x n 1 会得到无界输出，因此不稳定。差分器 y n x n -x n-1 对有界输入仍有界，因此稳定。 离散性质题抓手 先看输出是否用到 n 以后的样值，再看是否显含 n ，最后用简单有界输入测试稳定性。不要因为系统是离散的就默认稳定。"
   },
   {
     "id": "doc-d7cf87baddf4-p2",
@@ -1275,8 +1275,8 @@ window.SEARCH_INDEX = [
     "category": "基础与时域",
     "page": 6,
     "heading": "线性时不变系统",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据课程分 P 目录补充 LTI 时域分析覆盖点，尤其是响应分类、方程建立和系统性质再分析。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb e...",
-    "text": "Linear Time-Invariant Systems (线性时不变系统) Linear Time-Invariant Systems 线性时不变系统 基础与时域 线性时不变系统 五、视频目录知识点补充 来源说明 本节依据课程分 P 目录补充 LTI 时域分析覆盖点，尤其是响应分类、方程建立和系统性质再分析。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P037-P038 , 时域分析法、零输入响应和零状态响应 , 先分清初始状态贡献和输入贡献；零状态响应才直接由卷积得到。 , P056-P064 , 微分/差分方程建立与求解、冲激函数匹配法、各种响应分类和例题 , 方程法要区分自由/强迫、瞬态/稳态、零输入/零状态四组概念。 , P065-P070 , 冲激响应、阶跃响应、单位样值响应、记忆性、因果性、稳定性再分析 , 把 h 、阶跃响应和系统性质形成闭环：先求响应，再判性质。 , P071-P072 , 第二章例题与小结 , 时域章节复盘以“方程 + 卷积 + 响应分类 + 性质判定”为主线。 , 零输入响应与零状态响应不是同一件事。只有在初始状态为零时，输入通过 h 卷积得到的部分才是完整响应。"
+    "snippet": "五、课程目录补充讲解 1. 零输入响应与零状态响应 课程目录把零输入响应和零状态响应列为时域分析重点。对线性系统而言，完全响应常分解为 y t y zi t +y zs t 零输入响应 y zi 由初始状态引起，即输入为零时系统自身储能释放产生的响应；零状态响应 y zs 由外部输入引起，即初始状态为零时输入通过系统产生的响应。卷积 x ...",
+    "text": "Linear Time-Invariant Systems (线性时不变系统) Linear Time-Invariant Systems 线性时不变系统 基础与时域 线性时不变系统 五、课程目录补充讲解 1. 零输入响应与零状态响应 课程目录把零输入响应和零状态响应列为时域分析重点。对线性系统而言，完全响应常分解为 y t y zi t +y zs t 零输入响应 y zi 由初始状态引起，即输入为零时系统自身储能释放产生的响应；零状态响应 y zs 由外部输入引起，即初始状态为零时输入通过系统产生的响应。卷积 x h 只直接给出零状态响应，不包含初始状态带来的零输入部分。 判断抓手 题目给初始条件时，优先想到零输入响应；题目给冲激响应并要求输入作用结果时，优先想到零状态响应。 2. 自由响应、强迫响应、瞬态响应、稳态响应 课程目录还列出自由响应/强迫响应、瞬态响应/稳态响应。这两组分类角度不同。自由响应由系统特征方程决定，通常对应自然模态；强迫响应由输入形式决定。瞬态响应会随时间衰减，稳态响应是在长时间后保留下来的部分。 对稳定系统，瞬态部分通常由左半平面极点或单位圆内极点产生并逐渐衰减；稳态部分常与输入频率或输入形式一致。正弦稳态响应就是典型例子：稳定 LTI 系统输入正弦，长期输出仍为同频正弦，只改变幅度和相位。 3. 微分方程、差分方程与冲激函数匹配法 时域建模常得到微分方程或差分方程。连续系统可写成 a N y^ N t +...+a 0 y t b M x^ M t +...+b 0 x t 离散系统可写成 y n +a 1 y n-1 +...+a N y n-N b 0 x n +...+b M x n-M 冲激函数匹配法用于连续系统求冲激响应时处理方程两边的冲激及其导数项。核心思想是：输入为 delta t 时，输出 h t 中可能含有冲激项；必须让方程两边同阶冲激及冲激导数的系数匹配。 方程法中不要默认冲激响应一定是普通函数。若系统方程右侧含输入导数， h t 可能含冲激或冲激导数项。 4. 冲激响应、阶跃响应和系统性质的闭环 课程目录在卷积和方程之后又回到冲激响应、阶跃响应、记忆性、因果性和稳定性，是因为 h 可以把这些性质统一起来。连续时间 LTI 系统满足： - 无记忆： h t 只能是 K delta t 这类不延展的冲激项。 - 因果： h t 0, t 0 。 - BIBO 稳定： integral -infinity ^infinity abs h t d t infinity 。 离散时间对应为： - 无记忆： h n 只能在 n 0 处非零。 - 因果： h n 0, n 0 。 - BIBO 稳定： sum n -infinity ^infinity abs h n infinity 。 阶跃响应 s 与冲激响应 h 的关系也很重要。连续时间中 s t h t u t ，因此 h t d s t /d t ；离散时间中 s n sum k -infinity ^n h k ，因此 h n s n -s n-1 。 5. 方程求响应的做题流程 微分方程或差分方程求响应时，先确定要求的是零输入、零状态还是完全响应。零输入响应只看初始条件和齐次方程；零状态响应只看输入和系统函数；完全响应再把两者相加。 连续系统常见流程是：写特征方程，求自然响应形式；根据输入形式设强迫响应；用初始条件或跃变条件确定常数。离散系统流程类似：写特征方程，求齐次解；根据输入序列设特解；用初始条件递推或代入求常数。 响应分类口令 给初始条件，先找零输入；给输入和冲激响应，先做零状态；问长期输出，重点看稳态；问自然模态，重点看自由响应。"
   },
   {
     "id": "doc-ab2654a9740d-p2",
@@ -1325,8 +1325,8 @@ window.SEARCH_INDEX = [
     "category": "基础与时域",
     "page": 6,
     "heading": "卷积",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据课程第二章分 P 目录补充卷积计算清单，重点覆盖图解法、性质条件和典型信号卷积。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else ...",
-    "text": "Convolution (卷积) Convolution 卷积 基础与时域 卷积 五、视频目录知识点补充 来源说明 本节依据课程第二章分 P 目录补充卷积计算清单，重点覆盖图解法、性质条件和典型信号卷积。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P039-P041 , 卷积定义、卷积图解法 , 图解法按“反褶、平移、相乘、积分/求和”四步，不要跳过重叠区间。 , P042-P050 , 交换律、分配律、结合律、奇异信号卷积、时移、微积分、尺度变换、性质应用条件 , 卷积性质有适用条件；含冲激、阶跃或尺度变换时先处理奇异项。 , P051-P055 , 有限长序列卷积、两矩形信号卷积、与常数卷积、常见卷积积分和卷积和 , 有限长序列列上下限，矩形卷积看重叠长度，常数卷积看积分是否收敛。 , 做题经验补充 目录显示卷积是长课时重点。复习时要把“图解法”和“性质法”分开练：前者解决形状，后者解决复杂表达式拆分。"
+    "snippet": "五、课程目录补充讲解 1. 图解法为什么要分段 课程目录中卷积图解法占了较长课时。图解法不是简单画图，而是通过重叠区间分段确定积分上下限。连续卷积 y t integral -infinity ^infinity x tau h t-tau d tau 可按四步处理：先把 h tau 反褶为 h -tau ，再平移为 h t-tau ，然...",
+    "text": "Convolution (卷积) Convolution 卷积 基础与时域 卷积 五、课程目录补充讲解 1. 图解法为什么要分段 课程目录中卷积图解法占了较长课时。图解法不是简单画图，而是通过重叠区间分段确定积分上下限。连续卷积 y t integral -infinity ^infinity x tau h t-tau d tau 可按四步处理：先把 h tau 反褶为 h -tau ，再平移为 h t-tau ，然后找它与 x tau 的重叠范围，最后在每个 t 的区间内积分。每当重叠端点发生变化，就要换一个表达式。 2. 与奇异信号卷积 奇异信号卷积是目录中的重点。最重要的三条是： x t delta t-t 0 x t-t 0 x t u t integral -infinity ^t x tau d tau x t delta' t d x t /d t 离散时间中对应为 x n delta n-n 0 x n-n 0 这些性质可以把复杂卷积转成移位、积分、微分或累加。 3. 卷积性质的适用条件 卷积满足交换律、结合律、分配律，但在使用时要注意收敛和系统意义。与常数卷积时尤其容易出错：若 x t 的积分不收敛，则 x t 1 不一定存在；若是离散序列与常数序列卷积，也要检查绝对可和或有限支撑条件。 4. 有限长序列卷积与矩形卷积 有限长序列卷积最可靠的方法是列求和上下限。若 x n 长度为 L x ， h n 长度为 L h ，则卷积结果长度通常为 L y L x + L h - 1 两矩形信号卷积会得到三角形或梯形，本质是“重叠长度随平移变化”。做题时不必死记形状，直接画出重叠长度随 t 或 n 的变化更稳。 5. 时移、微积分和尺度性质的使用边界 课程目录把卷积的时移、微积分、尺度变换单独列出，是因为这些性质能大幅减少计算，但也最容易误用。若 y t x t h t 则有 x t-t 1 h t-t 2 y t-t 1-t 2 也就是说两个输入分别延时，卷积结果延时量相加。微分性质可写为 d/ d t x t h t x' t h t x t h' t 在含阶跃和冲激的题中，常通过“先卷积后微分”或“先微分后卷积”选择更简单的一条路。尺度性质要额外小心，不能随意把尺度因子漏掉。例如变量替换会带来 1/abs a 这样的系数。 卷积性质默认相关卷积存在。遇到常数、阶跃、无界信号或非绝对可积信号时，先检查收敛，再套性质。 6. 图解法分段的实际落点 图解法的关键不是画得漂亮，而是找准重叠区间端点。端点通常来自两类位置：一个信号的左/右边界，和另一个反褶平移后边界。随着 t 改变，这些端点的相对顺序会改变；每改变一次，就要换一个积分上下限。 连续矩形卷积常见结果可以这样理解：刚接触时重叠长度从 0 线性增加；完全覆盖短矩形时重叠长度保持常数；即将分离时重叠长度线性减少。因此两个等宽矩形卷积得到三角形，两个不等宽矩形卷积可能得到梯形。 图解法检查表 每段结果写完后，检查三件事：起止点是否正确，连接处是否连续，整体支撑长度是否等于两个支撑长度相加后的范围。"
   },
   {
     "id": "doc-ab6087b1a1bb-p2",
@@ -1375,8 +1375,8 @@ window.SEARCH_INDEX = [
     "category": "频域分析",
     "page": 6,
     "heading": "傅里叶级数",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据课程第三章分 P 目录补充傅里叶级数相关目录点，重点覆盖正交函数、谱图和对称性。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else ...",
-    "text": "Fourier Series (傅里叶级数) Fourier Series 傅里叶级数 频域分析 傅里叶级数 五、视频目录知识点补充 来源说明 本节依据课程第三章分 P 目录补充傅里叶级数相关目录点，重点覆盖正交函数、谱图和对称性。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P073-P075 , 傅里叶分析、狄利克雷条件、完备正交函数集 , 先确认信号满足展开条件，再用正交性求系数。 , P076-P080 , 三角形式、单边幅度谱和相位谱、指数形式、两种形式关系、双边谱 , 三角形式适合实信号直观分析，指数形式适合系统和变换衔接。 , P081-P083 , 周期矩形脉冲傅里叶级数、对称性与系数关系、例题 , 矩形脉冲先看占空比和对称性；对称性决定哪些系数为零。 , 画谱图时要区分单边谱和双边谱。复指数系数 C k 是双边谱，三角形式幅相谱通常按正频率组织。"
+    "snippet": "五、课程目录补充讲解 1. 狄利克雷条件与收敛结论 课程目录把狄利克雷条件放在傅里叶级数开头。常用表述是：在一个周期内，信号绝对可积，极大极小值数目有限，间断点数目有限，则傅里叶级数可按通常意义收敛。连续点处收敛到原函数值，跳变间断点处收敛到左右极限平均值。 这个条件的作用不是让你每题都严格证明，而是提醒：傅里叶级数处理的是足够“良好”的...",
+    "text": "Fourier Series (傅里叶级数) Fourier Series 傅里叶级数 频域分析 傅里叶级数 五、课程目录补充讲解 1. 狄利克雷条件与收敛结论 课程目录把狄利克雷条件放在傅里叶级数开头。常用表述是：在一个周期内，信号绝对可积，极大极小值数目有限，间断点数目有限，则傅里叶级数可按通常意义收敛。连续点处收敛到原函数值，跳变间断点处收敛到左右极限平均值。 这个条件的作用不是让你每题都严格证明，而是提醒：傅里叶级数处理的是足够“良好”的周期信号；在间断点处不要把级数值误认为原函数定义值。 2. 完备正交函数集 三角函数集和复指数函数集之所以能展开周期信号，根本原因是正交性。一个周期内有 integral T e^ j k omega 0 t e^ -j m omega 0 t d t 0, k ! m 当 k m 时积分为 T 。因此求系数时，把两边乘以对应基函数并在一个周期内积分，就能把其它谐波“筛掉”。 3. 单边谱、双边谱与两种级数形式 三角形式更适合画单边幅度谱和相位谱；指数形式天然对应双边谱。两者之间可互相转换：正频率和负频率的一对复指数合在一起，对应一个余弦或正弦分量。 画谱经验 若题目给 a k,b k ，优先画单边谱；若题目给 C k ，优先画双边谱。实信号的双边谱通常具有共轭对称性。 4. 周期矩形脉冲与对称性 周期矩形脉冲是傅里叶级数经典题。它的系数通常含有 Sa 形状包络，谱线位置仍在 k omega 0 。占空比决定包络零点位置，时移决定相位因子。若矩形脉冲关于原点偶对称，则正弦项消失；若具有半波对称，偶次谐波可能消失。 5. 三角形式与指数形式的系数互转 三角形式常写为 x t a 0 + sum k 1 ^infinity a k cos k omega 0 t +b k sin k omega 0 t 指数形式常写为 x t sum k -infinity ^infinity C k e^ j k omega 0 t 二者的关系是： C 0 a 0 ，正负频率系数由同一对 a k,b k 组成。常用写法为 C k 1/2 a k - j b k ,quad C -k 1/2 a k + j b k 对实信号， C -k C k^ ，所以双边幅度谱关于原点偶对称，相位谱关于原点奇对称。画谱时要先确认题目给的是单边三角谱还是双边指数谱，避免把幅度多乘或少乘 2 。 6. 对称性如何减少计算 对称性是傅里叶级数题的加速器。偶函数只含余弦项，奇函数只含正弦项；半波对称意味着 x t+T/2 -x t 此时直流和偶次谐波通常消失。若信号有时间平移，幅度谱不变，但相位谱会多出线性相位因子。周期矩形脉冲题尤其要先观察脉冲是否关于原点或某个中心点对称，再决定是否需要完整积分。 傅里叶级数做题顺序 先定周期和基波角频率，再看对称性，最后算系数。能用对称性判零的系数不要硬积分。"
   },
   {
     "id": "doc-3d5ffce05f90-p2",
@@ -1425,8 +1425,8 @@ window.SEARCH_INDEX = [
     "category": "频域分析",
     "page": 6,
     "heading": "傅里叶变换",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据课程第三章目录补充傅里叶变换的常见变换对、性质、频率响应和滤波应用。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if cal...",
-    "text": "Fourier Transform (傅里叶变换) Fourier Transform 傅里叶变换 频域分析 傅里叶变换 五、视频目录知识点补充 来源说明 本节依据课程第三章目录补充傅里叶变换的常见变换对、性质、频率响应和滤波应用。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P084-P092 , 傅里叶变换定义、常见信号变换、性质、变换表、周期信号傅里叶变换 , 优先用变换表和性质拼解；周期信号变换会出现冲激谱线。 , P094-P098 , 帕塞瓦尔定理、系统函数 H omega 、正弦响应、无失真传输、理想低通滤波器 , 频域题要同时看幅频和相频；无失真要求幅度常数、相位线性。 , P101-P102 , 希尔伯特变换、第三章小结 , Hilbert 变换可作为正交分量和解析信号相关内容的扩展点。 , 做题经验补充 频域系统题先写 Y j omega X j omega H j omega ，再判断是求输出频谱、幅相特性、滤波结果还是正弦稳态响应。"
+    "snippet": "五、课程目录补充讲解 1. 周期信号的傅里叶变换 课程目录把周期信号的傅里叶变换放在变换表之后。若周期信号的傅里叶级数为 x t sum k -infinity ^infinity C k e^ j k omega 0 t 则其傅里叶变换为冲激谱： X j omega 2 pi sum k -infinity ^infinity C k ...",
+    "text": "Fourier Transform (傅里叶变换) Fourier Transform 傅里叶变换 频域分析 傅里叶变换 五、课程目录补充讲解 1. 周期信号的傅里叶变换 课程目录把周期信号的傅里叶变换放在变换表之后。若周期信号的傅里叶级数为 x t sum k -infinity ^infinity C k e^ j k omega 0 t 则其傅里叶变换为冲激谱： X j omega 2 pi sum k -infinity ^infinity C k delta omega-k omega 0 这说明周期信号在频域不是连续谱，而是离散谱线。做题时应先判断信号是否周期，再决定用连续谱还是冲激谱。 2. 帕塞瓦尔定理 帕塞瓦尔定理连接时域能量和频域能量。对非周期能量信号，常用形式为 integral -infinity ^infinity abs x t ^2 d t 1/ 2 pi integral -infinity ^infinity abs X j omega ^2 d omega 它常用于能量计算、频域估计和滤波后能量变化判断。若题目直接算时域能量困难，而频谱幅度较简单，可以转到频域计算。 3. 无失真传输与理想低通滤波器 无失真传输要求输出只是输入的延时和比例缩放： y t K x t-t 0 对应频率响应为 H j omega K e^ -j omega t 0 因此无失真系统在信号有效频带内应满足：幅频特性为常数，相频特性为过原点的直线。理想低通滤波器则在通带内保留频率成分，在阻带内完全抑制。它的冲激响应通常呈 Sa 形状，说明理想砖墙频响对应非因果、无限长时域响应。 4. Hilbert 变换 Hilbert 变换是课程目录里的扩展点。它可以把信号各正频率分量相移 -pi/2 ，负频率分量相移 +pi/2 ，幅度不变。频域可写成乘以 -j sgn omega 。 Hilbert 变换常用于构造解析信号和正交分量。对考研复习而言，先掌握它“只改相位、不改幅度”的频域特征即可。 5. 傅里叶变换性质的主线 课程目录中“傅里叶变换的性质”占了多节，复习时不要散背，而要按四条主线归类。第一类是时间变化：时移对应线性相位，尺度变换对应频域反向尺度和幅度系数： x t-t 0 - e^ -j omega t 0 X j omega x a t - 1/abs a X j omega/a 第二类是频率变化：乘以复指数会让频谱平移： x t e^ j omega 0 t - X j omega-omega 0 第三类是微积分：时域微分对应频域乘 j omega ，时域积分对应除以 j omega 并可能补充零频冲激。第四类是卷积与乘积：时域卷积对应频域相乘，时域相乘对应频域卷积。 性质选择经验 看到平移先想相位因子，看到尺度先想 1/abs a ，看到乘指数先想频谱搬移，看到卷积先想频域相乘。 6. 系统对正弦信号的响应 课程目录把系统函数 H omega 和正弦响应单独列出，是因为这是频域分析最常考的应用。若稳定 LTI 系统输入 x t A cos omega 0 t + phi 则稳态输出仍为同频正弦： y ss t A abs H j omega 0 cos omega 0 t + phi + angle H j omega 0 这个结论只讨论稳态部分。若系统还有初始状态或瞬态项，完整响应需要加上自然响应；对稳定系统，瞬态随时间衰减后才剩下上式。 正弦稳态题不能把 H j omega 整个函数代进去后结束，必须在输入频率 omega 0 处取幅值和相位。"
   },
   {
     "id": "doc-b051dc23fde2-p2",
@@ -1475,8 +1475,8 @@ window.SEARCH_INDEX = [
     "category": "频域分析",
     "page": 6,
     "heading": "采样与调制",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据课程第三章目录补充抽样、调制和通信系统分析相关主题。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y,...",
-    "text": "Sampling and Modulation (采样与调制) Sampling and Modulation 采样与调制 频域分析 采样与调制 五、视频目录知识点补充 来源说明 本节依据课程第三章目录补充抽样、调制和通信系统分析相关主题。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P093 , 抽样定理 , 抽样题以频谱复制为核心：找最高频率、采样频率和混叠条件。 , P099-P100 , 调制与解调、通信系统分析例题 , 调制题看频谱搬移，解调题看乘法后低通滤波能否还原基带。 , 目录使用“抽样定理”表述，本书同时保留“采样”说法。两者在本章语境中指同一类 sampling 问题。"
+    "snippet": "五、课程目录补充讲解 1. 抽样定理的频谱解释 课程目录使用“抽样定理”表述，本书也称采样定理。理想抽样会让原信号频谱以抽样角频率 omega s 为间隔周期复制： X s j omega 1/T s sum k -infinity ^infinity X j omega-k omega s 若原信号带限于 abs omega omega...",
+    "text": "Sampling and Modulation (采样与调制) Sampling and Modulation 采样与调制 频域分析 采样与调制 五、课程目录补充讲解 1. 抽样定理的频谱解释 课程目录使用“抽样定理”表述，本书也称采样定理。理想抽样会让原信号频谱以抽样角频率 omega s 为间隔周期复制： X s j omega 1/T s sum k -infinity ^infinity X j omega-k omega s 若原信号带限于 abs omega omega m ，为了避免相邻复制谱重叠，需要 omega s 2 omega m 一旦复制谱重叠，就发生混叠，无法用理想低通无失真恢复原信号。 2. 调制与解调 调制的本质是频谱搬移。若用载波 cos omega c t 乘以基带信号 x t ，则频谱变为 1/2 X j omega-omega c + 1/2 X j omega+omega c 也就是把基带频谱搬到 +omega c 和 -omega c 附近。解调通常再乘一次同频载波，把频谱搬回基带，同时产生高频分量；随后通过低通滤波器取回基带部分。 解调题不要忘记第二次相乘会产生比例系数。若调制和解调用的都是余弦，基带项常带有 1/2 系数，是否需要放大补偿要看题目要求。 3. 通信系统分析题的做法 通信系统分析例题通常由“调制、信道或滤波、解调、低通恢复”组成。做题时建议画频谱轴：先画基带带宽，再画载频搬移后的位置，最后看滤波器通带能否完整覆盖目标频谱。如果频谱搬移后发生重叠或滤波器通带不足，就会失真。 4. 混叠的判断不是只背两倍频率 抽样定理的常见口令是“抽样频率大于两倍最高频率”，但做题时更可靠的是画复制频谱。若基带最高角频率为 omega m ，相邻复制谱中心间距为 omega s 。不混叠要求右侧基带边缘 omega m 与下一份复制谱左边缘 omega s-omega m 不重合或不交叠，因此 omega s 2 omega m 若题目用普通频率 f ，对应条件是 f s 2f m 。若题目给的是带通信号，不要直接用最高频率套低通信号公式，应看搬移后的频带复制是否重叠。 5. 解调后的低通滤波为什么能恢复 调制后频谱被搬到载频附近，解调再乘同频载波，会把频谱搬回零频附近，同时还会产生 2 omega c 附近的高频项。低通滤波器的任务就是留下零频附近的基带项，滤掉高频项。 因此解调题的检查点有三个：载频是否足够高，解调载波是否同频同相，低通截止频率是否覆盖完整基带。若相位不同，会引入幅度缩放或正交分量；若低通截止频率太小，会削掉基带高频；若太大，可能保留不该保留的高频项。 频谱图做题步骤 先标基带带宽，再标载频位置，然后标滤波器通带。每一步都在频谱轴上画范围，比只代公式更不容易漏掉混叠和比例系数。"
   },
   {
     "id": "doc-e9e1d7bfa278-p2",
@@ -1525,8 +1525,8 @@ window.SEARCH_INDEX = [
     "category": "复频域与系统",
     "page": 6,
     "heading": "拉普拉斯变换",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据课程第四章目录补充拉普拉斯变换、s 域系统分析和零极点应用覆盖点。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc...",
-    "text": "Laplace Transform (拉普拉斯变换) Laplace Transform 拉普拉斯变换 复频域与系统 拉普拉斯变换 五、视频目录知识点补充 来源说明 本节依据课程第四章目录补充拉普拉斯变换、s 域系统分析和零极点应用覆盖点。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P103-P110 , 拉普拉斯变换定义、收敛域、常用变换、性质、逆变换和变换表 , 拉氏变换题必须写 ROC；逆变换常用部分分式和 ROC 判时域方向。 , P111-P115 , 系统函数 H s 、电路系统分析、微分方程、s 域框图/流图分析 , s 域把微分方程和电路方程转为代数方程，框图流图用于系统函数合成。 , P116-P128 , 零极点分析、时域波形关系、响应分类、因果稳定、频域响应、全通/最小相移、正弦稳态、双边拉氏、小结 , 极点决定自然响应和稳定趋势；全通和最小相移是零极点分布的扩展考点。 , 全通函数与最小相移函数来自目录扩展点：全通重点看幅频恒定，最小相移重点看零极点位置与相位特性。"
+    "snippet": "五、课程目录补充讲解 1. 逆拉普拉斯变换与 ROC 课程目录中逆拉普拉斯变换占了较长时间。逆变换不是只做部分分式，还必须结合 ROC 判断时域信号是右边、左边还是双边。相同的代数式 X s 1/ s+a 若 ROC 为 Re s -a ，对应 e^ -a t u t ；若 ROC 为 Re s -a ，对应 -e^ -a t u -t ...",
+    "text": "Laplace Transform (拉普拉斯变换) Laplace Transform 拉普拉斯变换 复频域与系统 拉普拉斯变换 五、课程目录补充讲解 1. 逆拉普拉斯变换与 ROC 课程目录中逆拉普拉斯变换占了较长时间。逆变换不是只做部分分式，还必须结合 ROC 判断时域信号是右边、左边还是双边。相同的代数式 X s 1/ s+a 若 ROC 为 Re s -a ，对应 e^ -a t u t ；若 ROC 为 Re s -a ，对应 -e^ -a t u -t 。因此答案必须写出 ROC 或由题目因果性、稳定性推出 ROC。 2. 拉氏变换分析电路与微分方程 s 域方法可以把微分方程变成代数方程。电感、电容在 s 域中可转为阻抗形式，配合初始条件分析电路响应。若只求零状态响应，常把初始状态置零，直接求系统函数；若题目给初始电压或初始电流，则必须考虑零输入响应。 3. s 域框图与信号流图 系统框图和信号流图用于由结构求系统函数。串联系统函数相乘，并联系统函数相加，反馈结构常见形式为 H s G s / 1+G s F s 符号取决于反馈正负。信号流图可用梅森公式求总传输函数。复习时先掌握前向通路、回路增益和不接触回路的概念，再处理复杂流图。 4. 零极点与时域波形、频域响应 极点位置决定自然响应形态。实极点对应指数项，复共轭极点对应衰减或增长振荡。极点越靠近虚轴，衰减越慢；极点在右半平面，因果系统不稳定。零点会削弱某些频率或模态，对频率响应的陷波和相位特性有重要影响。 5. 全通函数与最小相移函数 全通函数的幅频响应为常数，主要改变相位；最小相移函数通常要求零点和极点都位于稳定区域内，在给定幅频特性下相位滞后最小。目录中列出这两个点，说明系统函数不仅用于稳定性，也用于幅相特性分析。 6. 拉普拉斯性质按“移动、微分、卷积”记 课程目录中拉普拉斯性质分多节讲解，核心仍是把时域操作转成 s 域代数操作。时移会带来指数因子，复频移会移动 s ： x t-t 0 u t-t 0 - e^ -s t 0 X s e^ s 0 t x t - X s-s 0 时域微分在双边拉普拉斯中对应乘 s ，在单边拉普拉斯中还会出现初始值项。卷积仍然对应相乘： x t h t - X s H s 所以求零状态响应时，s 域特别简洁；求含初始条件的完全响应时，要明确使用单边拉普拉斯或把零输入响应单独算出。 7. 单边拉普拉斯与双边拉普拉斯 双边拉普拉斯强调 ROC 和左右边信号，适合分析系统函数、因果性和稳定性。单边拉普拉斯从 0^- 开始积分，适合处理初始条件和微分方程。两者使用的代数形式相近，但题目含义不同。 若题目问“系统函数 H s ”，通常默认零状态条件；若题目给 y 0^- 、 y' 0^- 或电容初始电压、电感初始电流，就不能直接只写 H s X s ，还要把初始状态项带入。 拉氏变换求微分方程时，最容易把零状态响应当成完全响应。看到初始条件，要先问：这是单边拉普拉斯题，还是要先分解零输入和零状态？ 8. H s 与正弦稳态响应 若稳定系统的频率轴落在 ROC 中，则可以令 s j omega 得到频率响应。输入 A cos omega 0 t+phi 时，稳态输出由 H j omega 0 决定。s 域视角的价值是：极点决定瞬态能否衰减，频率轴上的函数值决定稳态幅相。 若系统极点靠近 j omega 0 ，该频率附近幅值响应可能很大；若零点靠近 j omega 0 ，该频率可能被明显抑制。这就是零极点与频域响应关系的直观解释。"
   },
   {
     "id": "doc-8446bd7ccccf-p2",
@@ -1575,8 +1575,8 @@ window.SEARCH_INDEX = [
     "category": "复频域与系统",
     "page": 6,
     "heading": "Z 变换",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据课程第五章目录补充 Z 变换和离散系统 z 域分析覆盖点。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem...",
-    "text": "Z Transform (Z 变换) Z Transform Z 变换 复频域与系统 Z 变换 五、视频目录知识点补充 来源说明 本节依据课程第五章目录补充 Z 变换和离散系统 z 域分析覆盖点。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P129-P136 , Z 变换定义、s 平面和 z 平面映射、常用变换及 ROC、性质、变换表、逆 Z 变换 , Z 变换题先看极点和 ROC，再用长除、部分分式或留数思路做逆变换。 , P137-P143 , 系统函数 H z 、差分方程、z 域框图/流图、零极点与时域波形、各种响应、因果稳定 , 离散系统函数题围绕极点、ROC、单位圆和差分方程展开。 , P144-P148 , 离散系统频率响应、正弦稳态响应、综合题、第五章小结 , 只有 ROC 包含单位圆时，才能稳定讨论 H e^ j Omega 。 , 课程目录单独列出 s 平面和 z 平面映射。理解 z e^ s T 可以帮助判断离散频率周期性和极点从连续域到离散域的位置变化。"
+    "snippet": "五、课程目录补充讲解 1. s 平面到 z 平面的映射 课程目录单独列出 s 平面和 z 平面的映射。采样周期为 T 时，两者由 z e^ s T 联系起来。若 s sigma+j omega ，则 abs z e^ sigma T 所以左半平面 sigma 0 映射到单位圆内，虚轴 sigma 0 映射到单位圆上，右半平面映射到单位圆外...",
+    "text": "Z Transform (Z 变换) Z Transform Z 变换 复频域与系统 Z 变换 五、课程目录补充讲解 1. s 平面到 z 平面的映射 课程目录单独列出 s 平面和 z 平面的映射。采样周期为 T 时，两者由 z e^ s T 联系起来。若 s sigma+j omega ，则 abs z e^ sigma T 所以左半平面 sigma 0 映射到单位圆内，虚轴 sigma 0 映射到单位圆上，右半平面映射到单位圆外。这解释了连续因果稳定系统“极点在左半平面”和离散因果稳定系统“极点在单位圆内”的对应关系。 2. 逆 Z 变换的常用方法 逆 Z 变换常见方法包括查表、部分分式、长除法和围线积分思想。考研题最常用的是部分分式和长除法。若要求右边序列，通常展开成 z^ -1 的正幂级数；若要求左边序列，则根据 ROC 向内展开。 逆 Z 变换不能只看代数式。不同 ROC 对应不同序列方向，答案可能完全不同。 3. z 域框图、流图与差分方程 离散系统框图中， z^ -1 表示单位延时。由框图写差分方程时，要给每个延时节点定义中间变量，再列出加法器和支路增益关系。由差分方程写系统函数时，零状态条件下做 Z 变换即可。 4. 离散频率响应与正弦稳态 若系统稳定，且 ROC 包含单位圆，则可令 z e^ j Omega 得到频率响应 H e^ j Omega 。输入离散正弦时，稳态输出仍为同数字频率正弦，幅度乘以 abs H e^ j Omega 0 ，相位加上 angle H e^ j Omega 0 。 5. Z 变换性质的做题用途 课程目录中 Z 变换性质分多节讲解，核心是把序列操作改写成 z 域操作。延时性质最常用： x n-n 0 - z^ -n 0 X z 但要注意双边 Z 变换的移位可能改变 ROC 的边界细节。指数加权对应 z 域尺度变化： a^n x n - X z/a 差分对应乘以 1-z^ -1 ，累加对应除以 1-z^ -1 并要检查收敛。卷积仍然对应相乘： x n h n - X z H z 这些性质的真正作用是减少求和。只要题目能由基本变换对加性质拼出，就不必从定义式硬算。 6. Z 变换求解差分方程 对零状态差分方程，直接取 Z 变换，把延时项写成 z^ -1 的倍数即可。例如 y n -a y n-1 x n 零状态下有 Y z -a z^ -1 Y z X z 因此 H z Y z /X z 1/ 1-a z^ -1 若题目给初始条件，则不能只用零状态系统函数，需要用单边 Z 变换或先求零输入响应。初始条件决定自然响应系数，输入决定零状态部分。 7. z 域极点与时域波形 离散极点的位置决定序列的衰减、增长和振荡。实极点 a 对应 a^n 型响应；若 abs a 1 ，右边序列随 n 增大衰减；若 abs a 1 ，右边序列增长。复共轭极点 r e^ plus.minus j Omega 0 对应带有数字角频率 Omega 0 的振荡， r 决定包络衰减或增长。 z 域看图经验 先看极点半径判断衰减，再看极点角度判断振荡频率，最后结合 ROC 判断因果和稳定。不要只凭代数式猜序列方向。"
   },
   {
     "id": "doc-b996b750df86-p2",
@@ -1625,8 +1625,8 @@ window.SEARCH_INDEX = [
     "category": "复频域与系统",
     "page": 6,
     "heading": "系统函数与稳定性",
-    "snippet": "五、视频目录知识点补充 来源说明 本节依据课程目录补充系统函数、稳定性和状态变量分析相关覆盖点。状态空间内容暂归入本章，后续内容增多时可单独拆章。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y...",
-    "text": "System Function and Stability (系统函数与稳定性) System Function and Stability 系统函数与稳定性 复频域与系统 系统函数与稳定性 五、视频目录知识点补充 来源说明 本节依据课程目录补充系统函数、稳定性和状态变量分析相关覆盖点。状态空间内容暂归入本章，后续内容增多时可单独拆章。 columns: 1.1fr, 2.2fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P , 目录知识点 , 补充到本章的复习抓手 , P095-P098 , 频域系统函数、正弦响应、无失真传输、理想低通 , 频域系统函数强调幅相特性和信号通过系统后的频率成分变化。 , P111-P126 , H s 、s 域框图/流图、零极点、因果稳定、频域响应、全通/最小相移、正弦稳态 , 连续系统函数题要把 ROC、极点位置、频率轴和稳定性放在同一张图里。 , P137-P148 , H z 、z 域框图/流图、零极点、因果稳定、离散频率响应和正弦稳态 , 离散系统函数题要把 ROC、单位圆、极点位置和因果性一起判断。 , P149-P155 , 状态变量分析、电路图/信号流图建状态方程、连续/离散状态方程求解、系统函数矩阵和稳定性 , 状态空间题先选状态变量，再写状态方程、输出方程和系统函数矩阵。 , 状态空间入口 若后续题目出现状态变量、状态方程、输出方程、系统函数矩阵 H s 或 H z ，优先补充到本章；当题量增加后再拆出“状态空间分析”独立章节。"
+    "snippet": "五、课程目录补充讲解 1. 频域系统函数与无失真传输 课程目录在傅里叶、拉普拉斯和 Z 变换中都反复出现系统函数。频域系统函数描述系统对各频率分量的放大和相移。无失真传输要求在信号有效频带内 H j omega K e^ -j omega t 0 也就是幅度为常数、相位为线性函数。若幅度不平坦，会产生幅度失真；若相位不线性，会产生相位失真...",
+    "text": "System Function and Stability (系统函数与稳定性) System Function and Stability 系统函数与稳定性 复频域与系统 系统函数与稳定性 五、课程目录补充讲解 1. 频域系统函数与无失真传输 课程目录在傅里叶、拉普拉斯和 Z 变换中都反复出现系统函数。频域系统函数描述系统对各频率分量的放大和相移。无失真传输要求在信号有效频带内 H j omega K e^ -j omega t 0 也就是幅度为常数、相位为线性函数。若幅度不平坦，会产生幅度失真；若相位不线性，会产生相位失真或群时延失真。 2. 连续系统与离散系统的稳定性统一视角 连续系统稳定要求 ROC 包含 j omega 轴；离散系统稳定要求 ROC 包含单位圆。若再加上因果性，则连续有理系统可简化为极点全在左半平面，离散有理系统可简化为极点全在单位圆内。 这个统一视角比死记结论更可靠：先画极点，再画 ROC，最后看频率轴或单位圆是否落在 ROC 中。 3. 状态变量、状态方程与输出方程 课程第六章引入状态变量分析。状态变量是一组能描述系统内部状态的最小变量。连续时间状态方程常写作 dot x t A x t +B u t y t C x t +D u t 离散时间状态方程常写作 x n+1 A x n +B u n y n C x n +D u n 其中 A 描述系统内部动态， B 描述输入如何进入状态， C 描述状态如何形成输出， D 是输入到输出的直通项。 4. 由电路图或信号流图建立状态方程 由电路图建状态方程时，常选电容电压、电感电流作为状态变量，因为它们代表储能。由信号流图建状态方程时，常选延时器或积分器输出作为状态变量。选好状态后，对每个状态变量写一条动态方程，再写输出方程。 状态空间做题顺序 先选状态变量，再写状态方程和输出方程，最后由矩阵求系统函数矩阵。不要一开始就硬套公式。 5. 系统函数矩阵与稳定性 多输入多输出系统中，输入输出关系由系统函数矩阵描述。连续系统可写作 H s ，离散系统可写作 H z 。稳定性仍由系统内部矩阵 A 的特征值决定：连续系统要求特征值位于左半平面，离散系统要求特征值位于单位圆内。 连续状态空间模型 dot x t A x t +B u t ,quad y t C x t +D u t 对应的系统函数矩阵为 H s C s I-A ^ -1 B+D 离散状态空间模型 x n+1 A x n +B u n ,quad y n C x n +D u n 对应的系统函数矩阵为 H z C z I-A ^ -1 B+D 这里的 I 是单位矩阵。若是单输入单输出系统， H s 或 H z 退化成普通系统函数；若是多输入多输出系统，矩阵中第 i,j 个元素表示第 j 个输入到第 i 个输出的传递关系。 6. 连续与离散状态方程的求解 课程目录最后安排连续和离散状态方程求解。连续系统的零输入状态响应由矩阵指数给出： x zi t e^ A t x 0 零状态响应则把输入通过状态转移矩阵累积： x zs t integral 0^t e^ A t-tau B u tau d tau 离散系统中，对应形式为 x zi n A^n x 0 x zs n sum k 0 ^ n-1 A^ n-1-k B u k 这些公式看起来偏线性代数，但做题抓手仍是响应分解：初始状态走 A 的自然演化，输入通过 B 进入状态，再由 C,D 形成输出。 状态方程求解抓手 先写状态响应 x ，再代入输出方程求 y 。判断稳定性时看 A 的特征值，而不是只看某个输入输出通道是否被零点抵消。"
   },
   {
     "id": "doc-8de53d6b2a1b-p2",
@@ -1675,7 +1675,7 @@ window.SEARCH_INDEX = [
     "category": "题型方法",
     "page": 6,
     "heading": "典型题型与做题方法",
-    "snippet": "五、视频目录到电子书章节映射 来源说明 本节把 B 站课程 155 个分 P 的标题映射到当前电子书章节，作为后续增量更新的归档规则。 columns: 1.1fr, 2.1fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb...",
-    "text": "Problem-Solving Methods (典型题型与做题方法) Problem-Solving Methods 典型题型与做题方法 题型方法 典型题型与做题方法 五、视频目录到电子书章节映射 来源说明 本节把 B 站课程 155 个分 P 的标题映射到当前电子书章节，作为后续增量更新的归档规则。 columns: 1.1fr, 2.1fr, 2.4fr , align: center, left, left , stroke: 0.5pt + rgb , fill: x, y if y 0 rgb else if calc.rem y, 2 0 rgb , 分 P 范围 , 课程目录主题 , 归入电子书章节 , P001-P036 , 信号分类、基本信号、系统基本性质 , 信号与系统基础、连续时间信号、离散时间信号。 , P037-P072 , 时域分析、卷积、微分/差分方程、响应分类和 LTI 性质 , 线性时不变系统、卷积、离散时间信号。 , P073-P102 , 傅里叶级数、傅里叶变换、抽样、滤波、调制、Hilbert 变换 , 傅里叶级数、傅里叶变换、采样与调制。 , P103-P128 , 拉普拉斯变换、s 域系统函数、零极点、因果稳定、全通/最小相移 , 拉普拉斯变换、系统函数与稳定性。 , P129-P148 , Z 变换、z 域系统函数、离散频率响应和正弦稳态 , Z 变换、系统函数与稳定性。 , P149-P155 , 状态变量分析、状态方程、系统函数矩阵和稳定性 , 系统函数与稳定性；后续可拆出状态空间分析。 , 当前补充基于公开视频目录，不包含老师逐字讲解、板书细节或例题完整过程。若后续拿到字幕、讲义或具体分 P 内容，应再把例题和推导补入对应章节。"
+    "snippet": "五、课程目录驱动的后续归档规则 1. 为什么不单独做“视频笔记文件” B 站课程目录覆盖了信号分类、时域分析、傅里叶分析、拉普拉斯变换、Z 变换和状态空间分析。为了让电子书可持续更新，后续不把视频内容做成零散笔记，而是按知识点写入对应章节。这样搜索“冲激偶”“全通函数”“状态变量”时，能直接跳到正式章节，而不是跳到孤立文件。 2. 分 P...",
+    "text": "Problem-Solving Methods (典型题型与做题方法) Problem-Solving Methods 典型题型与做题方法 题型方法 典型题型与做题方法 五、课程目录驱动的后续归档规则 1. 为什么不单独做“视频笔记文件” B 站课程目录覆盖了信号分类、时域分析、傅里叶分析、拉普拉斯变换、Z 变换和状态空间分析。为了让电子书可持续更新，后续不把视频内容做成零散笔记，而是按知识点写入对应章节。这样搜索“冲激偶”“全通函数”“状态变量”时，能直接跳到正式章节，而不是跳到孤立文件。 2. 分 P 范围与章节归档 P001-P036 主要对应信号分类、基本信号和系统基本性质，应归入“信号与系统基础”“连续时间信号”“离散时间信号”。P037-P072 对应时域分析、卷积、微分/差分方程、响应分类和 LTI 性质，应归入“线性时不变系统”“卷积”和“离散时间信号”。P073-P102 对应傅里叶级数、傅里叶变换、抽样、滤波、调制和 Hilbert 变换，应归入“傅里叶级数”“傅里叶变换”“采样与调制”。 P103-P128 对应拉普拉斯变换、s 域系统函数、零极点、因果稳定、全通与最小相移，应归入“拉普拉斯变换”和“系统函数与稳定性”。P129-P148 对应 Z 变换、z 域系统函数、离散频率响应和正弦稳态，应归入“Z 变换”和“系统函数与稳定性”。P149-P155 对应状态变量、状态方程、系统函数矩阵和稳定性，当前归入“系统函数与稳定性”，后续内容增多时可拆出“状态空间分析”。 3. 后续拿到字幕或讲义后的处理方式 当前补充来自公开视频目录，因此只写课程目录明确提示但电子书缺少的知识点。若后续拿到字幕、讲义或具体分 P 内容，应继续补充三类材料：第一，老师给出的推导过程；第二，课堂例题的完整解答；第三，反复强调的易错点和做题口令。 目录只能告诉我们“讲了什么”，不能证明“具体怎么讲”。因此本章目前只做知识点补齐，不冒充逐字课堂总结。"
   }
 ];
