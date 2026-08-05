@@ -40,5 +40,5 @@ node ebook/tests/test_app_performance.js
 
 ## 当前版本
 
-- 缓存版本：`20260805-signals-systems-v5`
-- 内容规模：12 个章节，83 页，60 条搜索记录。
+- 缓存版本：`20260805-signals-systems-v6`
+- 内容规模：12 个章节，65 页，50 条搜索记录。

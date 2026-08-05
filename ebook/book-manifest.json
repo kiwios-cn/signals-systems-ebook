@@ -1,15 +1,15 @@
 {
   "title": "信号与系统电子书",
   "subtitle": "时域分析 · 频域分析 · 复频域方法 · 典型题型",
-  "generatedAt": "2026-08-05T10:25:40+08:00",
+  "generatedAt": "2026-08-05T10:52:14+08:00",
   "stats": {
     "documents": 12,
-    "pages": 83,
+    "pages": 65,
     "renderDpi": 260,
     "pageRenderer": "typst-direct-webp",
     "pageImageExtension": "webp",
     "contentSource": "typst",
-    "searchEntries": 60
+    "searchEntries": 50
   },
   "categories": [
     {
@@ -26,7 +26,7 @@
           "sourcePath": "typst/Signals and Systems Basics (信号与系统基础).typ",
           "pageImageBase": "./rendered-pages/doc-0541d6dc078b/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 6,
           "sections": [
             {
               "id": "doc-0541d6dc078b-s1",
@@ -37,24 +37,18 @@
             {
               "id": "doc-0541d6dc078b-s2",
               "title": "二、系统性质五连问",
-              "page": 3,
+              "page": 4,
               "level": 1
             },
             {
               "id": "doc-0541d6dc078b-s3",
               "title": "三、能量信号与功率信号",
-              "page": 4,
+              "page": 5,
               "level": 1
             },
             {
               "id": "doc-0541d6dc078b-s4",
               "title": "四、典型例题与经验",
-              "page": 5,
-              "level": 1
-            },
-            {
-              "id": "doc-0541d6dc078b-s5",
-              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -69,7 +63,7 @@
           "sourcePath": "typst/Continuous-Time Signals (连续时间信号).typ",
           "pageImageBase": "./rendered-pages/doc-57607142881c/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 6,
           "sections": [
             {
               "id": "doc-57607142881c-s1",
@@ -80,24 +74,18 @@
             {
               "id": "doc-57607142881c-s2",
               "title": "二、时间变换的顺序",
-              "page": 3,
+              "page": 4,
               "level": 1
             },
             {
               "id": "doc-57607142881c-s3",
               "title": "三、连续时间周期判定",
-              "page": 4,
+              "page": 5,
               "level": 1
             },
             {
               "id": "doc-57607142881c-s4",
               "title": "四、典型例题与经验",
-              "page": 5,
-              "level": 1
-            },
-            {
-              "id": "doc-57607142881c-s5",
-              "title": "五、课程目录补充讲解",
               "page": 6,
               "level": 1
             }
@@ -112,7 +100,7 @@
           "sourcePath": "typst/Discrete-Time Signals (离散时间信号).typ",
           "pageImageBase": "./rendered-pages/doc-0a0d9f8b877a/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 6,
           "sections": [
             {
               "id": "doc-0a0d9f8b877a-s1",
@@ -134,13 +122,13 @@
             },
             {
               "id": "doc-0a0d9f8b877a-s4",
-              "title": "四、典型例题与经验",
+              "title": "四、离散系统性质判断",
               "page": 5,
               "level": 1
             },
             {
               "id": "doc-0a0d9f8b877a-s5",
-              "title": "五、课程目录补充讲解",
+              "title": "五、典型例题与经验",
               "page": 6,
               "level": 1
             }
@@ -155,7 +143,7 @@
           "sourcePath": "typst/Linear Time-Invariant Systems (线性时不变系统).typ",
           "pageImageBase": "./rendered-pages/doc-d7cf87baddf4/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 5,
           "sections": [
             {
               "id": "doc-d7cf87baddf4-s1",
@@ -180,12 +168,6 @@
               "title": "四、典型例题与经验",
               "page": 5,
               "level": 1
-            },
-            {
-              "id": "doc-d7cf87baddf4-s5",
-              "title": "五、课程目录补充讲解",
-              "page": 6,
-              "level": 1
             }
           ]
         },
@@ -198,7 +180,7 @@
           "sourcePath": "typst/Convolution (卷积).typ",
           "pageImageBase": "./rendered-pages/doc-ab2654a9740d/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 5,
           "sections": [
             {
               "id": "doc-ab2654a9740d-s1",
@@ -223,12 +205,6 @@
               "title": "四、典型例题与经验",
               "page": 5,
               "level": 1
-            },
-            {
-              "id": "doc-ab2654a9740d-s5",
-              "title": "五、课程目录补充讲解",
-              "page": 6,
-              "level": 1
             }
           ]
         }
@@ -248,7 +224,7 @@
           "sourcePath": "typst/Fourier Series (傅里叶级数).typ",
           "pageImageBase": "./rendered-pages/doc-ab6087b1a1bb/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 5,
           "sections": [
             {
               "id": "doc-ab6087b1a1bb-s1",
@@ -273,12 +249,6 @@
               "title": "四、典型例题与经验",
               "page": 5,
               "level": 1
-            },
-            {
-              "id": "doc-ab6087b1a1bb-s5",
-              "title": "五、课程目录补充讲解",
-              "page": 6,
-              "level": 1
             }
           ]
         },
@@ -291,7 +261,7 @@
           "sourcePath": "typst/Fourier Transform (傅里叶变换).typ",
           "pageImageBase": "./rendered-pages/doc-3d5ffce05f90/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 5,
           "sections": [
             {
               "id": "doc-3d5ffce05f90-s1",
@@ -316,12 +286,6 @@
               "title": "四、典型例题与经验",
               "page": 5,
               "level": 1
-            },
-            {
-              "id": "doc-3d5ffce05f90-s5",
-              "title": "五、课程目录补充讲解",
-              "page": 6,
-              "level": 1
             }
           ]
         },
@@ -334,7 +298,7 @@
           "sourcePath": "typst/Sampling and Modulation (采样与调制).typ",
           "pageImageBase": "./rendered-pages/doc-b051dc23fde2/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 5,
           "sections": [
             {
               "id": "doc-b051dc23fde2-s1",
@@ -359,12 +323,6 @@
               "title": "四、典型例题与经验",
               "page": 5,
               "level": 1
-            },
-            {
-              "id": "doc-b051dc23fde2-s5",
-              "title": "五、课程目录补充讲解",
-              "page": 6,
-              "level": 1
             }
           ]
         }
@@ -384,7 +342,7 @@
           "sourcePath": "typst/Laplace Transform (拉普拉斯变换).typ",
           "pageImageBase": "./rendered-pages/doc-e9e1d7bfa278/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 5,
           "sections": [
             {
               "id": "doc-e9e1d7bfa278-s1",
@@ -409,12 +367,6 @@
               "title": "四、典型例题与经验",
               "page": 5,
               "level": 1
-            },
-            {
-              "id": "doc-e9e1d7bfa278-s5",
-              "title": "五、课程目录补充讲解",
-              "page": 6,
-              "level": 1
             }
           ]
         },
@@ -427,7 +379,7 @@
           "sourcePath": "typst/Z Transform (Z 变换).typ",
           "pageImageBase": "./rendered-pages/doc-8446bd7ccccf/page-",
           "pageImageExtension": "webp",
-          "pageCount": 7,
+          "pageCount": 5,
           "sections": [
             {
               "id": "doc-8446bd7ccccf-s1",
@@ -451,12 +403,6 @@
               "id": "doc-8446bd7ccccf-s4",
               "title": "四、典型例题与经验",
               "page": 5,
-              "level": 1
-            },
-            {
-              "id": "doc-8446bd7ccccf-s5",
-              "title": "五、课程目录补充讲解",
-              "page": 6,
               "level": 1
             }
           ]
@@ -492,14 +438,14 @@
             },
             {
               "id": "doc-b996b750df86-s4",
-              "title": "四、典型例题与经验",
+              "title": "四、状态空间与系统函数矩阵",
               "page": 5,
               "level": 1
             },
             {
               "id": "doc-b996b750df86-s5",
-              "title": "五、课程目录补充讲解",
-              "page": 6,
+              "title": "五、典型例题与经验",
+              "page": 7,
               "level": 1
             }
           ]
@@ -520,7 +466,7 @@
           "sourcePath": "typst/Problem-Solving Methods (典型题型与做题方法).typ",
           "pageImageBase": "./rendered-pages/doc-8de53d6b2a1b/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 5,
           "sections": [
             {
               "id": "doc-8de53d6b2a1b-s1",
@@ -545,12 +491,6 @@
               "title": "四、易错清单",
               "page": 5,
               "level": 1
-            },
-            {
-              "id": "doc-8de53d6b2a1b-s5",
-              "title": "五、课程目录驱动的后续归档规则",
-              "page": 6,
-              "level": 1
             }
           ]
         }
@@ -567,7 +507,7 @@
       "sourcePath": "typst/Signals and Systems Basics (信号与系统基础).typ",
       "pageImageBase": "./rendered-pages/doc-0541d6dc078b/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 6,
       "sections": [
         {
           "id": "doc-0541d6dc078b-s1",
@@ -578,24 +518,18 @@
         {
           "id": "doc-0541d6dc078b-s2",
           "title": "二、系统性质五连问",
-          "page": 3,
+          "page": 4,
           "level": 1
         },
         {
           "id": "doc-0541d6dc078b-s3",
           "title": "三、能量信号与功率信号",
-          "page": 4,
+          "page": 5,
           "level": 1
         },
         {
           "id": "doc-0541d6dc078b-s4",
           "title": "四、典型例题与经验",
-          "page": 5,
-          "level": 1
-        },
-        {
-          "id": "doc-0541d6dc078b-s5",
-          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -610,7 +544,7 @@
       "sourcePath": "typst/Continuous-Time Signals (连续时间信号).typ",
       "pageImageBase": "./rendered-pages/doc-57607142881c/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 6,
       "sections": [
         {
           "id": "doc-57607142881c-s1",
@@ -621,24 +555,18 @@
         {
           "id": "doc-57607142881c-s2",
           "title": "二、时间变换的顺序",
-          "page": 3,
+          "page": 4,
           "level": 1
         },
         {
           "id": "doc-57607142881c-s3",
           "title": "三、连续时间周期判定",
-          "page": 4,
+          "page": 5,
           "level": 1
         },
         {
           "id": "doc-57607142881c-s4",
           "title": "四、典型例题与经验",
-          "page": 5,
-          "level": 1
-        },
-        {
-          "id": "doc-57607142881c-s5",
-          "title": "五、课程目录补充讲解",
           "page": 6,
           "level": 1
         }
@@ -653,7 +581,7 @@
       "sourcePath": "typst/Discrete-Time Signals (离散时间信号).typ",
       "pageImageBase": "./rendered-pages/doc-0a0d9f8b877a/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 6,
       "sections": [
         {
           "id": "doc-0a0d9f8b877a-s1",
@@ -675,13 +603,13 @@
         },
         {
           "id": "doc-0a0d9f8b877a-s4",
-          "title": "四、典型例题与经验",
+          "title": "四、离散系统性质判断",
           "page": 5,
           "level": 1
         },
         {
           "id": "doc-0a0d9f8b877a-s5",
-          "title": "五、课程目录补充讲解",
+          "title": "五、典型例题与经验",
           "page": 6,
           "level": 1
         }
@@ -696,7 +624,7 @@
       "sourcePath": "typst/Linear Time-Invariant Systems (线性时不变系统).typ",
       "pageImageBase": "./rendered-pages/doc-d7cf87baddf4/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 5,
       "sections": [
         {
           "id": "doc-d7cf87baddf4-s1",
@@ -721,12 +649,6 @@
           "title": "四、典型例题与经验",
           "page": 5,
           "level": 1
-        },
-        {
-          "id": "doc-d7cf87baddf4-s5",
-          "title": "五、课程目录补充讲解",
-          "page": 6,
-          "level": 1
         }
       ]
     },
@@ -739,7 +661,7 @@
       "sourcePath": "typst/Convolution (卷积).typ",
       "pageImageBase": "./rendered-pages/doc-ab2654a9740d/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 5,
       "sections": [
         {
           "id": "doc-ab2654a9740d-s1",
@@ -764,12 +686,6 @@
           "title": "四、典型例题与经验",
           "page": 5,
           "level": 1
-        },
-        {
-          "id": "doc-ab2654a9740d-s5",
-          "title": "五、课程目录补充讲解",
-          "page": 6,
-          "level": 1
         }
       ]
     },
@@ -782,7 +698,7 @@
       "sourcePath": "typst/Fourier Series (傅里叶级数).typ",
       "pageImageBase": "./rendered-pages/doc-ab6087b1a1bb/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 5,
       "sections": [
         {
           "id": "doc-ab6087b1a1bb-s1",
@@ -807,12 +723,6 @@
           "title": "四、典型例题与经验",
           "page": 5,
           "level": 1
-        },
-        {
-          "id": "doc-ab6087b1a1bb-s5",
-          "title": "五、课程目录补充讲解",
-          "page": 6,
-          "level": 1
         }
       ]
     },
@@ -825,7 +735,7 @@
       "sourcePath": "typst/Fourier Transform (傅里叶变换).typ",
       "pageImageBase": "./rendered-pages/doc-3d5ffce05f90/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 5,
       "sections": [
         {
           "id": "doc-3d5ffce05f90-s1",
@@ -850,12 +760,6 @@
           "title": "四、典型例题与经验",
           "page": 5,
           "level": 1
-        },
-        {
-          "id": "doc-3d5ffce05f90-s5",
-          "title": "五、课程目录补充讲解",
-          "page": 6,
-          "level": 1
         }
       ]
     },
@@ -868,7 +772,7 @@
       "sourcePath": "typst/Sampling and Modulation (采样与调制).typ",
       "pageImageBase": "./rendered-pages/doc-b051dc23fde2/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 5,
       "sections": [
         {
           "id": "doc-b051dc23fde2-s1",
@@ -893,12 +797,6 @@
           "title": "四、典型例题与经验",
           "page": 5,
           "level": 1
-        },
-        {
-          "id": "doc-b051dc23fde2-s5",
-          "title": "五、课程目录补充讲解",
-          "page": 6,
-          "level": 1
         }
       ]
     },
@@ -911,7 +809,7 @@
       "sourcePath": "typst/Laplace Transform (拉普拉斯变换).typ",
       "pageImageBase": "./rendered-pages/doc-e9e1d7bfa278/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 5,
       "sections": [
         {
           "id": "doc-e9e1d7bfa278-s1",
@@ -936,12 +834,6 @@
           "title": "四、典型例题与经验",
           "page": 5,
           "level": 1
-        },
-        {
-          "id": "doc-e9e1d7bfa278-s5",
-          "title": "五、课程目录补充讲解",
-          "page": 6,
-          "level": 1
         }
       ]
     },
@@ -954,7 +846,7 @@
       "sourcePath": "typst/Z Transform (Z 变换).typ",
       "pageImageBase": "./rendered-pages/doc-8446bd7ccccf/page-",
       "pageImageExtension": "webp",
-      "pageCount": 7,
+      "pageCount": 5,
       "sections": [
         {
           "id": "doc-8446bd7ccccf-s1",
@@ -978,12 +870,6 @@
           "id": "doc-8446bd7ccccf-s4",
           "title": "四、典型例题与经验",
           "page": 5,
-          "level": 1
-        },
-        {
-          "id": "doc-8446bd7ccccf-s5",
-          "title": "五、课程目录补充讲解",
-          "page": 6,
           "level": 1
         }
       ]
@@ -1019,14 +905,14 @@
         },
         {
           "id": "doc-b996b750df86-s4",
-          "title": "四、典型例题与经验",
+          "title": "四、状态空间与系统函数矩阵",
           "page": 5,
           "level": 1
         },
         {
           "id": "doc-b996b750df86-s5",
-          "title": "五、课程目录补充讲解",
-          "page": 6,
+          "title": "五、典型例题与经验",
+          "page": 7,
           "level": 1
         }
       ]
@@ -1040,7 +926,7 @@
       "sourcePath": "typst/Problem-Solving Methods (典型题型与做题方法).typ",
       "pageImageBase": "./rendered-pages/doc-8de53d6b2a1b/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 5,
       "sections": [
         {
           "id": "doc-8de53d6b2a1b-s1",
@@ -1064,12 +950,6 @@
           "id": "doc-8de53d6b2a1b-s4",
           "title": "四、易错清单",
           "page": 5,
-          "level": 1
-        },
-        {
-          "id": "doc-8de53d6b2a1b-s5",
-          "title": "五、课程目录驱动的后续归档规则",
-          "page": 6,
           "level": 1
         }
       ]
