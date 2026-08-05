@@ -2,6 +2,13 @@
 
 本仓库是“信号与系统电子书”的静态发布仓库，用于 GitHub Pages 公开访问。正式内容源文件和构建脚本保留在本地维护目录 `信号与系统/` 中，本仓库只保存已经构建好的网页阅读器和 WebP 页面图。
 
+
+## 公开站点
+
+- GitHub 仓库：https://github.com/kiwios-cn/signals-systems-ebook
+- GitHub Pages：https://kiwios-cn.github.io/signals-systems-ebook/
+- 网页入口：https://kiwios-cn.github.io/signals-systems-ebook/ebook/index.html
+
 ## 在线入口
 
 - 根入口：`index.html`
