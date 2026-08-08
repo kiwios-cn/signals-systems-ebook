@@ -20,9 +20,9 @@ python3 ebook/scripts/build_index.py
 
 ## 当前版本
 
-- 缓存版本：`20260808-signals-systems-v7`
-- 内容规模：12 个章节，67 页，50 条搜索记录。
-- 最近更新：`Signals and Systems Basics (信号与系统基础)` 中“信号的基本分类”已补充各类信号的定义、性质和图像表达。
+- 缓存版本：`20260808-signals-systems-v8`
+- 内容规模：12 个章节，68 页，50 条搜索记录。
+- 最近更新：`Signals and Systems Basics (信号与系统基础)` 中“信号的基本分类”已补充阶跃、冲激、单位样值、离散阶跃和斜变信号的定义、性质和图像表达。
 
 ## 输出文件
 
