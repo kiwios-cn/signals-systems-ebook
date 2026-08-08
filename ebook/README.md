@@ -18,6 +18,12 @@
 python3 ebook/scripts/build_index.py
 ```
 
+## 当前版本
+
+- 缓存版本：`20260808-signals-systems-v7`
+- 内容规模：12 个章节，67 页，50 条搜索记录。
+- 最近更新：`Signals and Systems Basics (信号与系统基础)` 中“信号的基本分类”已补充各类信号的定义、性质和图像表达。
+
 ## 输出文件
 
 - `book-manifest.json`：目录、章节、页面数量和一级大点页码。

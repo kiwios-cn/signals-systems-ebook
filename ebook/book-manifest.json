@@ -1,10 +1,10 @@
 {
   "title": "信号与系统电子书",
   "subtitle": "时域分析 · 频域分析 · 复频域方法 · 典型题型",
-  "generatedAt": "2026-08-05T10:52:14+08:00",
+  "generatedAt": "2026-08-08T16:06:19+08:00",
   "stats": {
     "documents": 12,
-    "pages": 65,
+    "pages": 67,
     "renderDpi": 260,
     "pageRenderer": "typst-direct-webp",
     "pageImageExtension": "webp",
@@ -26,7 +26,7 @@
           "sourcePath": "typst/Signals and Systems Basics (信号与系统基础).typ",
           "pageImageBase": "./rendered-pages/doc-0541d6dc078b/page-",
           "pageImageExtension": "webp",
-          "pageCount": 6,
+          "pageCount": 8,
           "sections": [
             {
               "id": "doc-0541d6dc078b-s1",
@@ -37,19 +37,19 @@
             {
               "id": "doc-0541d6dc078b-s2",
               "title": "二、系统性质五连问",
-              "page": 4,
+              "page": 6,
               "level": 1
             },
             {
               "id": "doc-0541d6dc078b-s3",
               "title": "三、能量信号与功率信号",
-              "page": 5,
+              "page": 7,
               "level": 1
             },
             {
               "id": "doc-0541d6dc078b-s4",
               "title": "四、典型例题与经验",
-              "page": 6,
+              "page": 8,
               "level": 1
             }
           ]
@@ -507,7 +507,7 @@
       "sourcePath": "typst/Signals and Systems Basics (信号与系统基础).typ",
       "pageImageBase": "./rendered-pages/doc-0541d6dc078b/page-",
       "pageImageExtension": "webp",
-      "pageCount": 6,
+      "pageCount": 8,
       "sections": [
         {
           "id": "doc-0541d6dc078b-s1",
@@ -518,19 +518,19 @@
         {
           "id": "doc-0541d6dc078b-s2",
           "title": "二、系统性质五连问",
-          "page": 4,
+          "page": 6,
           "level": 1
         },
         {
           "id": "doc-0541d6dc078b-s3",
           "title": "三、能量信号与功率信号",
-          "page": 5,
+          "page": 7,
           "level": 1
         },
         {
           "id": "doc-0541d6dc078b-s4",
           "title": "四、典型例题与经验",
-          "page": 6,
+          "page": 8,
           "level": 1
         }
       ]
